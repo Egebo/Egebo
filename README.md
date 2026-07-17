@@ -8,7 +8,7 @@ Mobil ve full-stack geliştiriciyim. Fikri alıp tasarımından yayınına kadar
 
 | Proje | Ne yapar | Teknoloji | Durum |
 |---|---|---|---|
-| [Looked](https://github.com/Egebo/Looked) | AI destekli dijital gardırop ve stil asistanı | React Native, Firebase, Gemini | [Google Play'de yayında](https://play.google.com/store/apps/details?id=com.egebo.looked) |
+| [Looked](https://github.com/Egebo/Looked) | AI destekli dijital gardırop ve stil asistanı | React Native, Firebase, Gemini | [Google Play](https://play.google.com/store/apps/details?id=com.egebo.looked) · [App Store](https://apps.apple.com/tr/app/looked-dijital-stil-asistan%C4%B1/id6776430564) |
 | [Poco Loco](https://github.com/Egebo/poco-loco) | Butik çanta markası için uçtan uca e-ticaret sitesi | React, TypeScript, Supabase, iyzico | [Yayında](https://poco--loco.com) |
 | [Optura](https://github.com/Egebo/Optura) | Fiş OCR + AI ile akıllı mutfak asistanı | Flutter, Supabase, GPT-4o | TestFlight |
 | [Jarvis](https://github.com/Egebo/Jarvis) | Sesli kişisel asistan (STT, function-calling, TTS) | Python, FastAPI, Whisper, Gemini | Aktif geliştirme |
